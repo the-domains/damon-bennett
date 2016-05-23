@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.15625
 color:
   saturation: 0.3665872
   brandStrength: 0.9210526
@@ -21,6 +22,5 @@ color:
     - '#868686'
     - '#B0B0B0'
   rhythmicContrast: 0.5352148
-typography_spectrum: 0.141604
 layout_spectrum: 0.3928571
 name: Damon Bennett
