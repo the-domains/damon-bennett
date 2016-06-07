@@ -4,17 +4,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.15625
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5946828
-  brandStrength: 0.9210526
-  lightness: 0
+  saturation: 1
+  brandStrength: 0.4155784
+  lightness: 1
   brandColors:
     - '#0A0A0A'
     - '#FFFFFF'
@@ -22,5 +21,6 @@ color:
     - '#868686'
     - '#B0B0B0'
   rhythmicContrast: 0.9925373
-layout_spectrum: 0.3928571
+typography_spectrum: 0.255597
+layout_spectrum: 0.28125
 name: Damon Bennett
